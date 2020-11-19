@@ -1,5 +1,4 @@
 const express = require("express");
-const userRoute = express.Router()
+const userRoute = express.Router();
 
-
-module.exports = userRoute
+module.exports = userRoute;
